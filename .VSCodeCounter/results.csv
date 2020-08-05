@@ -1,0 +1,17 @@
+"filename", "language", "Python", "Log", "comment", "blank", "total"
+"c:\Users\nilas\Documents\maya\2019\scripts\dank_tools\__init__.py", "Python", 0, 0, 0, 1, 1
+"c:\Users\nilas\Documents\maya\2019\scripts\dank_tools\correct_bake.py", "Python", 37, 0, 16, 12, 65
+"c:\Users\nilas\Documents\maya\2019\scripts\dank_tools\hik_prep.py", "Python", 25, 0, 13, 8, 46
+"c:\Users\nilas\Documents\maya\2019\scripts\dank_tools\icons\__init__.py", "Python", 0, 0, 0, 1, 1
+"c:\Users\nilas\Documents\maya\2019\scripts\dank_tools\importer.log", "Log", 0, 1107, 0, 2, 1109
+"c:\Users\nilas\Documents\maya\2019\scripts\dank_tools\tools\__init__.py", "Python", 0, 0, 0, 1, 1
+"c:\Users\nilas\Documents\maya\2019\scripts\dank_tools\tools\blendshape_transfer.py", "Python", 84, 0, 23, 20, 127
+"c:\Users\nilas\Documents\maya\2019\scripts\dank_tools\tools\characterize.py", "Python", 251, 0, 134, 66, 451
+"c:\Users\nilas\Documents\maya\2019\scripts\dank_tools\tools\ikfk_match.py", "Python", 21, 0, 4, 9, 34
+"c:\Users\nilas\Documents\maya\2019\scripts\dank_tools\tools\set_tpose.py", "Python", 86, 0, 11, 28, 125
+"c:\Users\nilas\Documents\maya\2019\scripts\dank_tools\ui\__init__.py", "Python", 0, 0, 0, 1, 1
+"c:\Users\nilas\Documents\maya\2019\scripts\dank_tools\utils\__init__.py", "Python", 0, 0, 0, 1, 1
+"c:\Users\nilas\Documents\maya\2019\scripts\dank_tools\utils\transform.py", "Python", 20, 0, 17, 7, 44
+"c:\Users\nilas\Documents\maya\2019\scripts\dank_tools\vendor\__init__.py", "Python", 0, 0, 0, 1, 1
+"c:\Users\nilas\Documents\maya\2019\scripts\dank_tools\vendor\rr_wrap.py", "Python", 59, 0, 13, 21, 93
+"Total", "-", 583, 1107, 231, 179, 2100
