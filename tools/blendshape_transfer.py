@@ -66,7 +66,7 @@ def transfer(asset_name=''):
             #mc.blendShape(bs_new_model, new_model, name='{}_bs_{}'.format(asset_name, bm_bshape_name))
             mc.setAttr('{}.{}'.format(bm_bshape_node, target), 0)
             mc.hide(bs_new_model)
-        print new_shapes
+        print(new_shapes)
         mc.blendShape(new_shapes, dup_tattr_model, name='{}_bs'.format(asset_name))
         # Create blendshape group for the new model
         bs_group = mc.group(em=True, name=asset_name + '_blendshapes_grp')
@@ -127,7 +127,7 @@ def wrap_to_blendshapes(model, wrap, asset_name, targets=[], export=''):
     if export:
         mc.select(bs_group, replace=True)
         dist = mc.file("{}/{}_blendshapes.ma".format(export, asset_name), es=True, type='mayaAscii')
-        print dist
+        print(dist)
 
     mc.delete(bs_group)
     try:
